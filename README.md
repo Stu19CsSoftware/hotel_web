@@ -13,4 +13,4 @@ npm run build
 npm run build --report
 
 # 参考代码
-https://gitee.com/kenann/vueadmin
+https://github.com/shenghy/jspangAdmin
